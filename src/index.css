@@ -1,0 +1,20 @@
+.btn {
+  margin-right: 5px;
+}
+table,
+th,
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+  border-width: 0.1px;
+  border-color: black;
+}
+thead {
+  background-color: rgb(46, 99, 145);
+}
+button {
+  border-style: none;
+}
+button:hover {
+  background-color: grey;
+}
